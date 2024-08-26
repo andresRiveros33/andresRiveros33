@@ -1,8 +1,8 @@
 <h1 align="center">Hola, Bienvenidos a mi perfil 👋🏼</h1>
-<h3 align="center">Back-End Software Developer👨🏼‍💻
+<h3 align="center">Desarrollador Full Stack Jr👨🏼‍💻
 </h3>
 <p align="center">
-Me nombro Alexander Fabián Hernández Navarro , cuento con conocimientos e interés por el área de Ingeniería de Sistemas, Ciberseguridad y Programación  🌐 con una sólida experiencia de más de 6 años en una variedad de tecnologías y herramientas, como HTML5, CSS3, Bootstrap, Tailwind, Ajax, PHP, MySQL, MongoDB, PostgreSQL, SQL Server, Firebase, TypeScript, Java, Jira, JavaScript, Python, AngularJS, Spring Boot, C#, ReactJS, NextJS, NodeJS, VueJS, Docker, Kubernetes, Postman, API RESTful, Hoppscotch, OrbStack, Kotlin, JUnit, Mockito, Google Cloud Platform, Microsoft Azure Cloud, AWS, Netifly, Heroku, Render, Android Studio, Flutter, Git, y GitHub, Metodologías Ágiles Scrum y DevOps. 💻🛠️</p>
+Me nombro Andres Riveros Ramirez , cuento con conocimientos e interés por el área de Ingeniería de Sistemas, Ciberseguridad y Programación  🌐 Aprendiendo variedad de tecnologías y herramientas, como HTML5, CSS3, Bootstrap, PHP, MySQL, MongoDB, PostgreSQL, SQL Server,JavaScript, Python, C#, NodeJS, Git, y GitHub, Metodologías Ágiles Scrum y DevOps. 💻🛠️</p>
 
 
 <div align="center">
@@ -29,27 +29,16 @@ Me nombro Alexander Fabián Hernández Navarro , cuento con conocimientos e inte
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🌐  **Ingeniero de Sistemas**
+- 🌐  **Estudiante Ingenieria de Sistemas**
 
-- 💻  **Especialista en Ciberseguridad**
+- 💻  **Diplomado en programacion con enfasis en Desarrollo Web**
   
-- 🔐  **Auditor Interno en ISO/IEC 27001:2022 - Sistemas de Gestión de la Seguridad de la Información y en la ISO/IEC 27005:2022 Información Seguridad, Ciberseguridad y Protección de la Privacidad**
 
-- 👨🏼‍💻  **Ethical Hacke®**
-
-- 👨🏼‍💻 **Máster en en APIs RESTful con NodeJS** 
-
-- 👨🏼‍💻 **Máster en Microservicios con Spring Boot y Spring Cloud**
-
-- 👨🏼‍💻 **Máster en Programación de Videojuegos con Unity® y C#**
-
-- 📱  Estoy estudiando **Máster Universitario en DevOps**
+- 📱  Estoy estudiando **Bootcamp Desarrollo Web Full Stack**
   
-- 🔭 Laboro en **Indra Colombia y MENTORTIC EdTech**
+- 🔭 Laboro en **METROKIA**
 
-- 💬 Pregúntame sobre **Java, JS, AngularJS, ReactJS y SpringBoot**
-
-- 📫 Cómo contactarme **alexanderhernandez0622@gmail.com**
+- 📫 Cómo contactarme **andresriveros25@gmail.com**
 
 <br>
 
