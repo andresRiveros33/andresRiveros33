@@ -43,7 +43,7 @@ Me nombro Andres Riveros Ramirez , cuento con conocimientos e interés por el á
 <br>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/alex-hern%C3%A1ndez-navarro%E2%9C%85-664865127?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7Boci6qSTZmUEkZjH0jIGg%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/andres-riveros-ramirez-862500246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
 <a href="https://www.facebook.com/alex.hernandez0622/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"  height="30" width="40" /></a>
 <a href="https://www.instagram.com/a_hernandez0622/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@alexanderhernandeznavarro9465" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"  height="30" width="40" /></a>
