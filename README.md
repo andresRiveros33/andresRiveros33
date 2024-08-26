@@ -57,42 +57,32 @@ Me nombro Andres Riveros Ramirez , cuento con conocimientos e interés por el á
 - Back-End
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs,cs,kotlin,php,rabbitmq,heroku,hibernate" />
+    <img src="https://skillicons.dev/icons?i=laravel,java,nodejs,php" />
   </a>
 </p>
 
 - Front-End
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui,angular,vue,jest,npm,bootstrap,flutter" />
+    <img src="https://skillicons.dev/icons?i=js,npm,bootstrap" />
   </a>
 </p>
 
 - Databases
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
   </a>
 </p>
 
-- Automation
-<p align="left">
- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jenkins" />
-</a>
-</p>
 
-- Cloud Servers
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
-  </a>
-</p>
+
+
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux,kali,maven,discord,linkedin" />
+    <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,linux,kali,discord,linkedin" />
   </a>
 </p>
 
